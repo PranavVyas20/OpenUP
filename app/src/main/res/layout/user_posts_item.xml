@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:minHeight="120dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:elevation="26dp"
+        app:cardBackgroundColor="?attr/customCardColor"
+        app:cardCornerRadius="15dp"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="40dp"
+                    android:id="@+id/userProfile_Tv"
+                    android:fontFamily="@font/gerbera_med"
+                    android:textAllCaps="true"
+                    android:textColor="@color/white"
+                    android:textSize="27sp"
+                    android:gravity="center_horizontal"
+                    android:layout_margin="25dp"
+                    android:layout_height="40dp"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="25dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/usernameTv"
+                        android:textStyle="bold"
+                        android:fontFamily="@font/gerbera_med"
+                        android:layout_marginEnd="7dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="pranav_2003" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="2Hr ago"
+                        android:fontFamily="@font/gerbera_med"
+                        android:layout_marginEnd="7dp"
+                        android:id="@+id/timeTv"
+                         />
+
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/deletePostBtn"
+                    android:layout_width="34dp"
+                    android:gravity="right"
+                    android:layout_margin="25dp"
+                    android:layout_height="34dp"
+                    android:background="@drawable/ic_baseline_delete_outline_24" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/postDesTv"
+                android:layout_marginStart="25dp"
+                android:textSize="16sp"
+                android:layout_marginTop="-15dp"
+                android:layout_marginEnd="11dp"
+                android:fontFamily="@font/gerbera_med"
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description" />
+
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

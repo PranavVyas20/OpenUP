@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_activity_nav_graph"
+    app:startDestination="@id/homeFeedFragment2">
+
+    <fragment
+        android:id="@+id/homeFeedFragment2"
+        android:name="com.example.open_up.ui.fragments.homeFeedFragment"
+        android:label="fragment_home_feed"
+        tools:layout="@layout/fragment_home_feed" >
+        <action
+            android:id="@+id/action_homeFeedFragment2_to_createPostFragment"
+            app:destination="@id/createPostFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/userProfileFragment2"
+        android:name="com.example.open_up.ui.fragments.userProfileFragment"
+        android:label="userProfileFragment" />
+    <fragment
+        android:id="@+id/createPostFragment"
+        android:name="com.example.openupfinal.ui.fragments.createPostFragment"
+        android:label="fragment_create_post"
+        tools:layout="@layout/fragment_create_post" >
+        <action
+            android:id="@+id/action_createPostFragment_to_homeFeedFragment2"
+            app:destination="@id/homeFeedFragment2" />
+    </fragment>
+</navigation>
