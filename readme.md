@@ -35,7 +35,7 @@ Open Up is Your app. Open Up is your heart which needs no likes and comment and 
   </tr>
   <tr>
     <td><img src="ss/Screenshot from 2022-02-26 17-56-18.png" width=270 height=510></td>
-    <td><img src="ss/Screenshot from 2022-02-26 18-01-37.png" width=270 height=510></td>
+    <td><img src="ss/Screenshot from 2022-04-09 15-45-01.png" width=270 height=510></td>
     <td><img src="ss/Screenshot from 2022-02-26 18-02-49.png" width=270 height=510></td>
   </tr>
  </table>
