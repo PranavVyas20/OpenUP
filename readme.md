@@ -5,6 +5,8 @@ Open up is your community where you can cheer, scream, shout, vent but..but..
 Without getting worried what people will comment or like.
 Open Up is Your app. Open Up is your heart which needs no likes and comment and just simply want to share what your heart feels.
 
+## Screenshots:
+
 <table>
   <tr>
     <td><img src="ss/Screenshot from 2022-02-26 17-50-04.png" width=270 height=480></td>
