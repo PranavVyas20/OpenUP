@@ -6,11 +6,11 @@ Without getting worried what people will comment or like.
 Open Up is Your app. Open Up is your heart which needs no likes and comment and just simply want to share what your heart feels.
 
 ## Made using:
-- Kotlin
-- Firebase 
-- Coroutines
-- Safe Args
-- Material Design Components
+- [Kotlin](https://developer.android.com/kotlin)
+- [Firebase](https://firebase.google.com/) 
+- [Coroutines](https://developer.android.com/kotlin/coroutines)
+- [Navigation Components](https://developer.android.com/jetpack/androidx/releases/navigation)
+- [Material Design](https://developer.android.com/reference/android/arch/lifecycle/LiveData) 
 
 ## Features:
 
