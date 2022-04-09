@@ -7,17 +7,17 @@ Open Up is Your app. Open Up is your heart which needs no likes and comment and 
 
 <table>
   <tr>
-    <td><img src="screenshots/Screenshot from 2022-04-09 01-23-51.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot from 2022-04-09 01-24-04.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot from 2022-04-09 01-24-35.png" width=270 height=480></td>
+    <td><img src="ss/Screenshot from 2022-02-26 17-50-04.png" width=270 height=480></td>
+    <td><img src="ss/Screenshot from 2022-02-26 17-51-29.png" width=270 height=480></td>
+    <td><img src="ss/Screenshot from 2022-02-26 17-56-00.png" width=270 height=480></td>
   </tr>
  </table>
  
  <table>
   <tr>
-    <td><img src="screenshots/Screenshot from 2022-04-09 01-23-51.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot from 2022-04-09 01-24-04.png" width=270 height=480></td>
-    <td><img src="screenshots/Screenshot from 2022-04-09 01-24-35.png" width=270 height=480></td>
+    <td><img src="ss/Screenshot from 2022-02-26 17-56-18.png" width=270 height=480></td>
+    <td><img src="ss/Screenshot from 2022-02-26 18-01-37.png" width=270 height=480></td>
+    <td><img src="ss/Screenshot from 2022-02-26 18-02-49.png" width=270 height=480></td>
   </tr>
  </table>
 
