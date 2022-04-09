@@ -30,6 +30,7 @@ Open Up is Your app. Open Up is your heart which needs no likes and comment and 
  <table>
   <tr>
      <td>Create new post</td>
+     <td> Sign Out</td>
      <td>User Profile</td>
   </tr>
   <tr>
