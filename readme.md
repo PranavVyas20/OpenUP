@@ -5,6 +5,10 @@ Open up is your community where you can cheer, scream, shout, vent but..but..
 Without getting worried what people will comment or like.
 Open Up is Your app. Open Up is your heart which needs no likes and comment and just simply want to share what your heart feels.
 
+## Made with-
+- Kotlin
+- Firebase 
+
 ## Screenshots:
 
 <table>
