@@ -15,6 +15,11 @@ Open Up is Your app. Open Up is your heart which needs no likes and comment and 
 ## Features:
 
 <table>
+    <tr>
+     <td>Login</td>
+     <td>Create a new account</td>
+     <td>Home Feed</td>
+  </tr>
   <tr>
     <td><img src="ss/Screenshot from 2022-02-26 17-50-04.png" width=270 height=510></td>
     <td><img src="ss/Screenshot from 2022-02-26 17-51-29.png" width=270 height=510></td>
@@ -23,6 +28,10 @@ Open Up is Your app. Open Up is your heart which needs no likes and comment and 
  </table>
  
  <table>
+  <tr>
+     <td>Create new post</td>
+     <td>User Profile</td>
+  </tr>
   <tr>
     <td><img src="ss/Screenshot from 2022-02-26 17-56-18.png" width=270 height=510></td>
     <td><img src="ss/Screenshot from 2022-02-26 18-01-37.png" width=270 height=510></td>
